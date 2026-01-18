@@ -32,15 +32,15 @@ An efficient self-evolving agent learning system that enables agents to autonomo
 
 
 **ThinkFL: Self-Refining Failure Localization for Microservice Systems via Reinforcement Fine-Tuning**  
-L Zhang*, **Y Zhai***, T Jia, C Duan, S Yu, J Gao, B Ding, Z Wu, Y Li  
+L Zhang<sup>*</sup>, **Y Zhai**<sup>*</sup>, T Jia, C Duan, S Yu, J Gao, B Ding, Z Wu, Y Li  
 *ACM Transactions on Software Engineering and Methodology, 2026*
 
 **AgentFM: Role-Aware Failure Management for Distributed Databases with LLM-Driven Multi-Agents**  
-L Zhang*, **Y Zhai***, T Jia, X Huang, C Duan, Y Li  
+L Zhang<sup>*</sup>, **Y Zhai**<sup>*</sup>, T Jia, X Huang, C Duan, Y Li  
 *Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering (FOCS), 2025*
 
 **Provoking Multi-modal Few-Shot LVLM via Exploration-Exploitation In-Context Learning**  
-C Chen*, **Y Zhai***, Y Zhao, J Gao, B Ding, J Li  
+C Chen<sup>*</sup>, **Y Zhai**<sup>*</sup>, Y Zhao, J Gao, B Ding, J Li  
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025*
 
 **d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models**  
