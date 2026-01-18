@@ -26,7 +26,7 @@ author:
   avatar           : "zyp.jpeg"
   name             : "Yunpeng Zhai (翟云鹏)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a researcher at Alibaba Tongyi, focusing on Agentic RL and post-training algorithms for large language models."
   location         : "Beijing, China"
   employer         : "Alibaba, Tongyi Lab"
   uri              : # URL
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=YZ88bV8AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3344-4543"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
