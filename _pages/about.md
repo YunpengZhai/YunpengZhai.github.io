@@ -11,7 +11,7 @@ I am a researcher at Alibaba Tongyi Lab, working on agentic reinforcement learni
 
 My main research interests include:
 
-1. <u>Agentic RL Algorithms</u>: Reinforcement learning algorithms for large language models in dialogue and agent scenarios, including tool use, coding, and software engineering
+1. <u>Agentic RL Algorithms</u>: Reinforcement learning algorithms for large language models in dialogue and agent scenarios, including tool use, deep research, and software engineering
 2. <u>Agent Self-Evolution Systems</u>: Self-evolving, continual learning, and autonomous improvement mechanisms for intelligent agents
 3. <u>LLM Post-training Techniques</u>: Post-training and fine-tuning techniques for large language models, addressing learning stability and efficiency in long-horizon task scenarios
 
@@ -25,10 +25,12 @@ My main research interests include:
 > [[arXiv]](https://arxiv.org/abs/2511.10395) [[Code]](https://github.com/modelscope/AgentEvolver) ![GitHub stars](https://img.shields.io/github/stars/modelscope/AgentEvolver?style=social)
 > 
 > An efficient self-evolving agent learning system that enables agents to autonomously improve through evolutionary mechanisms. Open-sourced on ModelScope.
+> 
+> We further present [AgentEvolver Game Arena](https://github.com/modelscope/AgentEvolver/tree/main/games), a platform for multi-agent social reasoning games (Avalon, Diplomacy) with web interfaces, evaluation frameworks, and training capabilities.
 
 ## Selected Publications
 
-*Bold indicates first author, asterisk (*) indicates co-first author. For a complete list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=YZ88bV8AAAAJ).* 
+*Asterisk (\*) indicates co-first author. For a complete list, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=YZ88bV8AAAAJ).* 
 
 
 > <span style="color: #2E86AB;">ThinkFL: Self-Refining Failure Localization for Microservice Systems via Reinforcement Fine-Tuning</span>  
@@ -42,6 +44,11 @@ My main research interests include:
 > <span style="color: #2E86AB;">Provoking Multi-modal Few-Shot LVLM via Exploration-Exploitation In-Context Learning</span>  
 > C Chen\*, **Y Zhai**\*, Y Zhao, J Gao, B Ding, J Li  
 > *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025*
+
+> <span style="color: #2E86AB;">CuES: A Curiosity-driven and Environment-grounded Synthesis Framework for Agentic RL</span>  
+> S Mai, **Y Zhai**\*, Z Chen, C Chen, A Zou, S Tao, Z Liu, B Ding  
+> *arXiv preprint arXiv:2512.01311, 2025*  
+> [[arXiv]](https://arxiv.org/abs/2512.01311)
 
 > <span style="color: #2E86AB;">d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models</span>  
 > L Pan, S Tao, **Y Zhai**, Z Fu, L Fang, M He, L Zhang, Z Liu, B Ding, A Liu, et al.  
