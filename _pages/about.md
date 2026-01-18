@@ -9,12 +9,11 @@ redirect_from:
 
 I am a researcher at Alibaba Tongyi Lab, working on agentic reinforcement learning, agent self-evolution systems, and LLM post-training techniques. I received my Ph.D. from Peking University, School of Computer Science in 2024.
 
-## Research Interests
+### Research Interests
 
 1. **Agentic RL Algorithms**: Reinforcement learning algorithms for large language models in dialogue and agent scenarios, including tool use, coding, and software engineering
 2. **Agent Self-Evolution Systems**: Self-evolving, continual learning, and autonomous improvement mechanisms for intelligent agents
 3. **LLM Post-training Techniques**: Post-training and fine-tuning techniques for large language models, addressing learning stability and efficiency in long-horizon task scenarios
-
 
 **Hiring**: I am looking for researchers and interns interested in agentic RL, agent self-evolution, and LLM post-training techniques. Please feel free to contact me.
 
@@ -25,7 +24,7 @@ I am a researcher at Alibaba Tongyi Lab, working on agentic reinforcement learni
 *arXiv preprint arXiv:2511.10395, 2025*  
 [[arXiv]](https://arxiv.org/abs/2511.10395) [[Code]](https://github.com/modelscope/AgentEvolver) ![GitHub stars](https://img.shields.io/github/stars/modelscope/AgentEvolver?style=social)
 
-An efficient self-evolving agent learning system that enables agents to autonomously improve through evolutionary mechanisms. Open-sourced on ModelScope with 1.1k+ GitHub stars.
+An efficient self-evolving agent learning system that enables agents to autonomously improve through evolutionary mechanisms. Open-sourced on ModelScope.
 
 ## Selected Publications
 
@@ -51,7 +50,6 @@ L Pan, S Tao, **Y Zhai**, Z Fu, L Fang, M He, L Zhang, Z Liu, B Ding, A Liu, et 
 **MicroRemed: Benchmarking LLMs in Microservices Remediation**  
 L Zhang, **Y Zhai**, T Jia, C Duan, M He, L Pan, Z Liu, B Ding, Y Li  
 *arXiv preprint arXiv:2511.01166, 2025*
-
 
 **Auto-Rubric: Learning to Extract Generalizable Criteria for Reward Modeling**  
 L Xie, S Huang, Z Zhang, A Zou, **Y Zhai**, D Ren, K Zhang, H Hu, B Liu, et al.  

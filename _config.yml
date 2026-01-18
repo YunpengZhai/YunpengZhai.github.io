@@ -26,7 +26,7 @@ author:
   avatar           : "zyp.jpeg"
   name             : "Yunpeng Zhai (翟云鹏)"
   pronouns         : # example: "she/her"  
-  bio              : "I am a researcher at Alibaba Tongyi, focusing on Agentic RL and post-training algorithms for large language models."
+  bio              : "Researcher at Alibaba Tongyi Lab working on agentic RL, agent self-evolution, and LLM post-training."
   location         : "Beijing, China"
   employer         : "Alibaba, Tongyi Lab"
   uri              : # URL
