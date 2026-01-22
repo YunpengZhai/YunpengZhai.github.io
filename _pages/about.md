@@ -24,9 +24,9 @@ My main research interests include:
 > *arXiv preprint arXiv:2511.10395, 2025*  
 > [[arXiv]](https://arxiv.org/abs/2511.10395) [[Code]](https://github.com/modelscope/AgentEvolver) ![GitHub stars](https://img.shields.io/github/stars/modelscope/AgentEvolver?style=social)
 > 
-> An efficient self-evolving agent learning system that enables agents to autonomously improve through evolutionary mechanisms. Open-sourced on ModelScope.
+> An efficient self-evolving agent learning system that enables agents to autonomously improve through evolutionary mechanisms -- self-questioning, self-navigating and self-attributing. Open-sourced on ModelScope.
 > 
-> We further present [AgentEvolver Game Arena](https://github.com/modelscope/AgentEvolver/tree/main/games), a platform for multi-agent social reasoning games (Avalon, Diplomacy) with web interfaces, evaluation frameworks, and training capabilities.
+> We further present [AgentEvolver Game Arena](https://github.com/modelscope/AgentEvolver/tree/main/games), a platform for multi-agent social reasoning games (Avalon, Diplomacy) designed to study models' social gaming capabilities and develop reinforcement learning methods for credit assignment and context management in ultra-long context scenarios.
 
 ## Selected Publications
 
