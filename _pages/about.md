@@ -11,9 +11,9 @@ I am a researcher at Alibaba Tongyi Lab, working on agentic reinforcement learni
 
 My main research interests include:
 
-1. <u>Agentic RL Algorithms</u>: Reinforcement learning algorithms for large language models in dialogue and agent scenarios, including tool use, deep research, and software engineering
-2. <u>Agent Self-Evolution Systems</u>: Self-evolving, continual learning, and autonomous improvement mechanisms for intelligent agents
-3. <u>LLM Post-training Techniques</u>: Post-training and fine-tuning techniques for large language models, addressing learning stability and efficiency in long-horizon task scenarios
+1. <u>Agentic RL</u>: Reinforcement learning algorithms for large language models in dialogue and agent scenarios, including tool use, deep research, and software engineering
+2. <u>Self-Evolving Agent Systems</u>: Self-evolving, continual learning, and autonomous improvement mechanisms for intelligent agents
+3. <u>LLM Post-training</u>: Post-training and fine-tuning techniques for large language models, addressing learning stability and efficiency in long-horizon task scenarios
 
 **Hiring**: I am looking for researchers and interns interested in agentic RL, agent self-evolution, and LLM post-training techniques. Please feel free to contact me.
 
@@ -46,7 +46,7 @@ My main research interests include:
 > *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025*
 
 > <span style="color: #2E86AB;">CuES: A Curiosity-driven and Environment-grounded Synthesis Framework for Agentic RL</span>  
-> S Mai, **Y Zhai**\*, Z Chen, C Chen, A Zou, S Tao, Z Liu, B Ding  
+> S Mai\*, **Y Zhai**\*, Z Chen, C Chen, A Zou, S Tao, Z Liu, B Ding  
 > *arXiv preprint arXiv:2512.01311, 2025*  
 > [[arXiv]](https://arxiv.org/abs/2512.01311)
 
@@ -96,6 +96,7 @@ My main research interests include:
 
 ## Honors and Awards
 
-- **Alibaba Star Program** (2024)
-- **National Scholarship**
+- **Alibaba Star Program**
+- **Huawei's Top Minds Program** 
+- **National Scholarship** (2020)
 - **Outstanding Graduate**, Peking University (2024)
