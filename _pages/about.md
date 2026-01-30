@@ -35,7 +35,7 @@ My main research interests include:
 
 > <span style="color: #2E86AB;">ThinkFL: Self-Refining Failure Localization for Microservice Systems via Reinforcement Fine-Tuning</span>  
 > L Zhang\*, **Y Zhai**\*, T Jia, C Duan, S Yu, J Gao, B Ding, Z Wu, Y Li  
-> *ACM Transactions on Software Engineering and Methodology, 2026*
+> *ACM Transactions on Software Engineering and Methodology (TOSEM), 2026*
 
 > <span style="color: #2E86AB;">AgentFM: Role-Aware Failure Management for Distributed Databases with LLM-Driven Multi-Agents</span>  
 > L Zhang\*, **Y Zhai**\*, T Jia, X Huang, C Duan, Y Li  
