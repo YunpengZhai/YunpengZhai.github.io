@@ -39,7 +39,7 @@ My main research interests include:
 
 > <span style="color: #2E86AB;">AgentFM: Role-Aware Failure Management for Distributed Databases with LLM-Driven Multi-Agents</span>  
 > L Zhang\*, **Y Zhai**\*, T Jia, X Huang, C Duan, Y Li  
-> *Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering (FOCS), 2025*
+> *Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering (FSE), 2025*
 
 > <span style="color: #2E86AB;">Provoking Multi-modal Few-Shot LVLM via Exploration-Exploitation In-Context Learning</span>  
 > C Chen\*, **Y Zhai**\*, Y Zhao, J Gao, B Ding, J Li  
